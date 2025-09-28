@@ -1,1 +1,1 @@
-# selfie-schema
+# Selfix AI Schema
